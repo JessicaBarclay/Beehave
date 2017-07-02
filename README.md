@@ -14,12 +14,12 @@ nvm install --lts
 ### Local Installation
 In your terminal, run:
 ```
-git clone git@github.com:SimonTanner/Beehave.git
+git clone git@github.com:JessicaBarclay/Beehave.git
 cd Beehave
 npm install
 ```
 
-#### To run the tests
+To run the tests
 
 ```
 npm test
